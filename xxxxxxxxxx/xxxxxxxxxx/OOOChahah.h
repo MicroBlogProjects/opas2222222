@@ -1,5 +1,5 @@
 //
-//  OA.h
+//  OOOChahah.h
 //  xxxxxxxxxx
 //
 //  Created by administrator on 15/7/9.
@@ -8,6 +8,6 @@
 
 #import <Foundation/Foundation.h>
 
-@interface OA : NSObject
-//陈新
+@interface OOOChahah : NSObject
+
 @end
